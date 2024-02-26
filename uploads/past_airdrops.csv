@@ -1,0 +1,51 @@
+project,ticker,category,blockchain,tier,date,total_amount_airdroped,total_receipeints,average_airdropped_per_wallet_dollar,min_Allocation,max_Allocation
+Uniswap,UNI,DEX,ethereum,Tier 1,September 2020,6400000000,250000,17600,400 $UNI,400 $UNI
+Ape Coin,APE,NFT,ethereum,Tier 1,March 2022,3500000000,29498,,,
+Jupiter,Jup,DEX,solana,Tier 1,January 2024,2700000000,957935,200,140 $JUP,2.1M $JUP
+Arbitrum,ARB,chain,arbitrum,Tier 1,March 2023,1900000000,625143,3922,625 $ARB,
+Blur,BLUR,NFT,ethereum,Tier 1,October 2022,818000000,124632,14445,,
+Dymension,DYM,DA,,Tier 1,February 2024,606000000,528523,,,
+Aptos,APT,chain,arbitrum,Tier 1,October 2022,450000000,124828,1200,,
+Jito,JTO,MEV,solana,Tier 1,December 2023,439000000,13133,10000,,
+Optimism,OP,chain,optimism,Tier 1,May 2022,163000000,329965,147,2.31 $OP,"10,462.43 $OP"
+Starknet,STRK,chain,starknet,Tier 2,February 2024,3000000000,1290000,,,
+dYdX,DYDX,Perps,dYdX,Tier 2,September 2021,2000000000,64000,,,
+Ethereum Name Service,ENS,Social,ethereum,Tier 2,Novemer 2021,1800000000,137689,13794,200 $ENS,1000 $ENS
+Internet Computer,icp,chain,ICP,Tier 2,2021,1700000000,50000,100000,,
+Bonk,BONK,Meme,solana,Tier 2,,1300000000,,,,
+Looksrare,LOOKS,NFT,ethereum,Tier 2,March 2022,712000000,124665,523,125 $LOOKS,"10,000 $LOOKS"
+1INCH,1INCH,DEX aggregator,multi-chain,Tier 2,December 2020,671000000,55223,4550,,
+X2Y2,LOOKS,NFT,ethereum,Tier 2,january 2022,480000000,861417,,,
+Paraswap,PSP,DEX aggregator,multi-chain,Tier 2,November 2021,225000000,20000,,,
+Mask Network,MASK,Social,ethereum,Tier 2,February 2021,180000000,16800,970,,
+Pyth,PYTH,Oracle,solana,Tier 2,November 2023,125000000,90000,,,
+CoW,COW,DEX aggregator,multi-chain,Tier 2,January 2022,100000000,50001,,99 $COW,
+AltLayer,ALT,LRT,ethereum,Tier 2,January 2024,87000000,174394,250,200 $ALT,1.29M $ALT
+Arkam Intelligence,ARKM,Data,ethereum,Tier 2,July 2023,19000000,55570,285,,"246,391 $ARKM"
+ZigZag,ZZ,DEX,zkSync Lite,Tier 2,December 2022,100000,,,,
+Juno,JUNO,DEX,,Tier 3,October 2021,1500000000,,,,
+AmpleForth,AMPL,Other,ethereum,Tier 3,April 2021,900000000,75000,,,
+Osmo,OSMO,DEX,cosmos ,Tier 3,June 2021,560000000,,,,
+EVMOS,EVMOS,DEX,cosmos,Tier 3,April 2022,489000000,2000000,2934,,
+Hashflow,HFT,DEX aggregator,ethereum,Tier 3,November 2022,204000000,15000,,0.1 $HFT,"30,000 $HFT"
+AI Doge,AIDOGE,Meme,arbitrum,Tier 3,April 2023,174850390,475206,,333333333 $AIDOGE,
+Botto,BOTTO,NFT,ethereum,Tier 3,June 2021,111000000,22066,,646 $BOTTO,"26,666 $BOTTO"
+Gitcoin,GTC,Social,ethereum,Tier 3,May 2021,100000000,25500,,,"246,011 $GTC"
+Zetachain,ZETA,DEX,,Tier 3,January 2024,89000000,800021,,51 $ZETA,"20,000 $ZETA"
+Velodrome,VELO,DEX,optimism,Tier 3,June 2022,60000000,,,500 $VELO,
+Sei,SEI,DEX,sei,Tier 3,August 2023,55000000,1500000,,,
+Vertex,VRTX,DEX,arbitrum,Tier 3,November 2023,53000000,,,,
+Space ID,ID,Social,ethereum,Tier 3,March 2023,44000000,271000,,,
+Connext,NEXT,DEX,ethereum,Tier 3,August 2023,42000000,,,,
+Across,ACX,Cross-Chain,ethereum,Tier 3,,21000000,,,,
+DappRadar,RADAR,Social,ethereum,Tier 3,October 2021,15000000,40000,350,,
+Notional,NOTE,Yield,ethereum,Tier 3,September 2021,14000000,741,,600 $NOTE,1800 $NOTE
+Unlock protocol,UDT,Other,ethereum,Tier 3,September 2021,14000000,4839,1511,1 $UDT,10 $UDT
+Inverse,INV,Yield,ethereum,Tier 3,March 2021,8000000,409,100000,80 $INV,80 $INV
+HOP,HOP,Cross-Chain,ethereum,Tier 3,February 2022,5200000,32805,,,
+zkSync ID,ZKID,Social,zkSync,Tier 3,February 2024,1500000,,,,
+Astroport,ASTRO,DEX,solana,Tier 3,December 2021,800000,56627,105,,
+Tornado Cash,TORN,Privacy,ethereum,Tier 3,January 2021,535000,7514,2564,,
+Maverick,MAV,DEX,ethereum/zkSync Era,Tier 3,June 2023,122230,,,,
+CyberConnect,CYBER,Social,optimism,Tier 3,August 2023,,,,,
+Convergence,CVG,Yield,convergence,Tier 3,February 2024,,,,,
